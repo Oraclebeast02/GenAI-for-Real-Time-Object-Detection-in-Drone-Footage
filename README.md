@@ -1,5 +1,5 @@
 
-<h1 align=center><font size = 6>Drone Detection Using YOLOv7: A Comprehensive Dataset and Model Approach</font></h1>
+<h1 align=center><font size = 6>GenAI for Real-Time Object Detection in Drone Footage</font></h1>
 
 <br>  
 
