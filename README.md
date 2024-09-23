@@ -67,7 +67,7 @@ It's important to note that this is a high-level overview of YOLO, and the algor
 ## Keywords  
 
 * Drone detection
-* YOLOv7
+* YOLOv5
 * Object detection
 * Deep learning
 * Surveillance
