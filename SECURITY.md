@@ -6,8 +6,6 @@ Thank you for your interest in the security of our project. If you believe you h
 
 ### Reporting Process
 
-1. **Email**: Please send an email to [doguilmak@gmail.com](mailto:doguilmak@gmail.com) with the subject line "Security Vulnerability Report."
-
 2. **Include Details**: In your report, please provide a detailed description of the vulnerability, including:
 
    - A brief summary of the issue.
